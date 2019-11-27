@@ -5,7 +5,7 @@ namespace NetCoreApp
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Class1.SayHello();
         }
