@@ -1,5 +1,4 @@
-﻿using ClassLibrary1;
-using System;
+using ClassLibrary1;
 
 namespace NetCoreApp
 {
