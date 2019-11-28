@@ -4,9 +4,11 @@ namespace ClassLibrary1
 {
     public class Class1
     {
-        public static void SayHello()
+        public static string SayHello()
         {
-            Console.WriteLine("Hello, World!");
+            var message = "Hello, World!";
+            Console.WriteLine(message);
+            return message;
         }
     }
 }
